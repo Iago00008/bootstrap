@@ -1,0 +1,14 @@
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\bin\Debug\net6.0\meu-primeiro-app.exe
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\bin\Debug\net6.0\meu-primeiro-app.deps.json
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\bin\Debug\net6.0\meu-primeiro-app.runtimeconfig.json
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\bin\Debug\net6.0\meu-primeiro-app.dll
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\bin\Debug\net6.0\meu-primeiro-app.pdb
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.AssemblyInfoInputs.cache
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.AssemblyInfo.cs
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.csproj.CoreCompileInputs.cache
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.dll
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\refint\meu-primeiro-app.dll
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.pdb
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\meu-primeiro-app.genruntimeconfig.cache
+C:\Users\iago55093726\Documents\projetos\meu-primeiro-app\obj\Debug\net6.0\ref\meu-primeiro-app.dll
