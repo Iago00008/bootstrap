@@ -7,20 +7,20 @@ class program
 {
     public static void Main()
     {
-        int num1, num2;
+        int ano1, ano2;
 
 
         Console.WriteLine("Informe sue ano de nascimento:");
 
-        num1 = Convert.ToInt32(Console.ReadLine());
+        ano1 = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Informe o ano atual: ");
+        
+        ano2 = Convert.ToInt32(Console.ReadLine());
 
-        num2 = Convert.ToInt32(Console.ReadLine());
+        int idade = ano2 - ano1;
 
-        int subtracao = num2 - num1;
-
-        Console.WriteLine($"subtração: {subtracao}");
+        Console.WriteLine($"Idade: {idade}");
 
 
 
