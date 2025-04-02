@@ -1,0 +1,14 @@
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\bin\Debug\net7.0\atividade.exe
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\bin\Debug\net7.0\atividade.deps.json
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\bin\Debug\net7.0\atividade.runtimeconfig.json
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\bin\Debug\net7.0\atividade.dll
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\bin\Debug\net7.0\atividade.pdb
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.AssemblyInfoInputs.cache
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.AssemblyInfo.cs
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.dll
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\refint\atividade.dll
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.pdb
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\atividade.genruntimeconfig.cache
+C:\Users\iago55093726\Documents\projetos\prejeto-app2\atividade\obj\Debug\net7.0\ref\atividade.dll
